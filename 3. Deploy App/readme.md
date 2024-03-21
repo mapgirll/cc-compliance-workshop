@@ -1,5 +1,7 @@
 # 3. Deploy Demo Microservices App
 
+To show Calico in action, we will install an application that we can secure.
+
 **Create a Namespace for the application**
 
 First, let's create a namespace called 'hipstershop' for the application:
